@@ -1,10 +1,10 @@
-# CurrentSocial
+# Current
 
 **Social investing for crypto.**
 
 CurrentSocial helps investors track their crypto portfolio, understand their allocation and risk, and get AI-powered insights to make more informed decisions.
 
-🌐 **Website:** https://currentsocial.xyz/
+ **Website:** https://currentsocial.xyz/
 
 ## Features
 
